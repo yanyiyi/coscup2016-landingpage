@@ -10,7 +10,7 @@ html {
 body {
   font-family: Open Sans,Helvetica Neue,Helvetica,Arial;
   width: 100%;
-  background: #F0EFED;
+  background:  #EDEADA;
  
 }
 .cover {
@@ -64,7 +64,7 @@ body ul, body li {
   width: 100%;
   height: 80px;
   padding: 20px 5px;
-  background: #8BCDD1;
+  background: #749B75;
   
   color: white;
   font-size: 22px;
@@ -107,14 +107,14 @@ body ul, body li {
 
 #sharing a {
   font-weight: bold;
-  color: #666;
+  color: #EDEADA;
 }
 #info {
   font-family: monospace;
   font-size: 20px;
   font-size: 2rem;
   /*background: #8BCDD1;*/
-  background: #B8E0E3;
+  background: #AACA86;
   padding: 6px 20px;
 }
 
@@ -160,8 +160,8 @@ body ul, body li {
   border: 1px solid #3D5B5D;
 }
 #call-for-action li:hover {
-  border-color: #8BCDD1;
-  background: #8BCDD1;
+  border-color: #AACA86;
+  background: #AACA86;
 
   
   transition-property: all;
@@ -233,16 +233,16 @@ body ul, body li {
   color: black;
   font-size: 16px;
   font-size: 1.6rem;
-  color: #527F82;
+  color: #EDEADA;
 }
 
 #archives a {
-  color: #527F82;
+  color: #FAF9F7;
   font-weight: bold;
 }
 
 #archives a:hover {
-  color: #3DA550;
+  color: #EDEADA;
 }
 
 #languages {
@@ -250,7 +250,7 @@ body ul, body li {
   bottom: 10px;
   left: 40px;*/
   margin-left: 40px;
-  color: black;
+  color: #EDEADA;
   font-size: 16px;
   font-size: 1.6rem;
 }
@@ -258,10 +258,11 @@ body ul, body li {
 #languages a {
   cursor: pointer;
   font-weight: bold;
+    color: #EDEADA;
 }
 
 #languages a:hover {
-  color: #3DA550;
+   color: #527F82;
 }
 
 @media screen and (max-device-width: 931px){
@@ -372,7 +373,7 @@ body ul, body li {
   display: none;
 }
 #footer {
-  background: #CCE9EB;
+  background: #517862;
   padding: 10px 0 20px 0;
 
 }
