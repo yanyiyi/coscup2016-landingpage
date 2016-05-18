@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: #CCE9EB;
+  background: #517862;
 }
 * {
   margin: 0;
@@ -20,7 +20,6 @@ body {
 @media screen and (min-width: 400px){
   .cover {
     width: calc(100% - 240px);
-    margin-top: 70px;
     background: url("images/cover.png") no-repeat 0 0px;
     height: 300px
   }
@@ -262,7 +261,11 @@ body ul, body li {
 }
 
 #languages a:hover {
+<<<<<<< HEAD
    color: #527F82;
+=======
+   color: #FAF9F7;
+>>>>>>> itsneo/master
 }
 
 @media screen and (max-device-width: 931px){
